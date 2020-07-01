@@ -7,6 +7,21 @@ This is the Rossmann Project for the Meigarom Lopes course. This project provide
 
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann <b>store managers are tasked with predicting their daily sales for up to six weeks in advance </b>. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 
+# Hyphotesis List
+
+* Store with larger assortments should sell more.
+* Store with closer competitors should sell less.
+* Stores with longer competitors can sell more.
+* Stores with active promotions for longer should sell more.
+* Stores with more promotion days can sell more.
+* Stores with more consecutive promotions should sell more.
+* Stores that open on Christmas should sell more.
+* Stores should sell more over the years.
+* Stores should sell more in the second half of the year.
+* Stores should sell more after the 10th of each month.
+* Stores should sell less on weekends.
+* Stores should sell less during school holidays.
+
 # Dataset
 
 Most of the fields are self-explanatory. The following are descriptions for those that aren't.
