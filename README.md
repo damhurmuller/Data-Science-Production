@@ -7,6 +7,10 @@ This is the Rossmann Project for the Meigarom Lopes course. This project provide
 
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann <b>store managers are tasked with predicting their daily sales for up to six weeks in advance </b>. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 
+# Mind Map
+
+![Screenshot](img/MindMapHypothesis.png)
+
 # Hyphotesis List
 
 * Store with larger assortments should sell more.
