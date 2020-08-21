@@ -1,7 +1,5 @@
-# Still in progress...
-
 # Rossmann Project
-This is the Rossmann Project for the Meigarom Lopes course. This project provide a real-world business problem and was made by me while following each step of the CRISP-DS (Cross-Industry Process - Data Science) methodology.
+This project provide a real-world business problem and was made by me while following each step of the CRISP-DS (CRoss-Industry Standard Process - Data Science) methodology.
 
 # Context
 
